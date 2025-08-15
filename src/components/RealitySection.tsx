@@ -17,32 +17,43 @@ const RealitySection = () => {
 
           <div className="text-left space-y-6 text-lg leading-relaxed">
             <p>
-              São crianças que <strong className="text-highlight">sentem tudo mais intensamente</strong>, 
-              que processam o mundo de forma diferente e que, muitas vezes, acabam sendo rotuladas 
-              como "difíceis", "teimosas" ou "desobedientes".
+              Eles sentem mais intensamente, processam diferente, reagem de forma mais dramática a mudanças que outras crianças nem percebem. E isso deixa qualquer mãe ou pai no limite – porque ninguém nos ensinou como lidar com uma criança que sente o mundo <strong className="text-highlight">'em alta definição'</strong>.
             </p>
 
             <p>
-              Mas a verdade é que essas crianças não estão tentando nos desafiar por maldade. 
-              Elas estão tentando nos comunicar algo que <strong className="text-highlight">ainda não conseguem expressar em palavras</strong>.
+              A frustração não vem só do comportamento em si, mas da sensação de estar sempre <strong className="text-highlight">'apagando incêndio'</strong> sem entender por que eles começam. Mas o que a maioria dos pais não percebe é que essa intensidade emocional não é um defeito…
             </p>
 
             <p>
-              E nós, como pais, nos sentimos perdidos, frustrados e, muitas vezes, culpados. 
-              Tentamos de tudo: conversas, castigos, recompensas, gritos... 
-              Mas nada parece funcionar de forma duradoura.
+              <strong className="text-highlight">É um sistema nervoso jovem e superdesenvolvido tentando navegar um mundo que ainda não faz sentido para ele.</strong>
             </p>
 
             <p>
-              O que você precisa entender é que <strong className="text-highlight">não é culpa sua</strong>. 
-              Você não recebeu um manual de instruções sobre como lidar com as emoções da sua criança. 
-              E é exatamente isso que podemos mudar juntas.
+              E quando essa criança explode em birras, desobedece ou se isola, ela não está sendo 'má' – está pedindo ajuda da única forma que conhece.
             </p>
 
-            <p className="text-xl font-semibold text-highlight">
-              Porque quando entendemos a linguagem das emoções da nossa criança, 
-              tudo muda. A paz volta para casa. O sorriso volta para o rosto do seu filho. 
-              E você recupera a confiança como mãe.
+            <p>
+              Cada 'não' gritado, cada porta batida, cada 'você não me entende' é uma tentativa desesperada de comunicar: <strong className="text-highlight">'Eu preciso que alguém me ensine como lidar com isso que sinto'</strong>.
+            </p>
+
+            <p>
+              Grande parte das queixas escolares envolvem questões comportamentais, não acadêmicas. Ou seja: a maioria das crianças sabe a matéria, mas não consegue regular as emoções para demonstrar isso.
+            </p>
+
+            <p>
+              O que isso realmente significa é que <strong className="text-highlight">você não está criando errado. Seu filho não é 'problemático'</strong>. Você está lidando com uma criança que precisa aprender habilidades emocionais que ninguém ensina na escola.
+            </p>
+
+            <p>
+              A maioria das pessoas ainda acredita que 'criança bem educada não dá trabalho', mas a realidade é que crianças sensíveis e inteligentes dão MAIS trabalho – porque sentem e questionam tudo mais profundamente.
+            </p>
+
+            <p>
+              Enquanto você se culpa pelos comportamentos do seu filho, ele continua sofrendo por não conseguir expressar o que sente. Cada dia que passa sem as ferramentas certas, é mais frustração acumulada para ambos.
+            </p>
+
+            <p>
+              E a parte mais dolorosa? Ver outras famílias que parecem ter 'filhos fáceis' e se perguntar por que com você é diferente. <strong className="text-highlight">Não é porque você está fazendo algo errado – é porque seu filho precisa de uma abordagem diferente.</strong>
             </p>
           </div>
 
