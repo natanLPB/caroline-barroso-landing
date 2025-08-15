@@ -6,21 +6,21 @@
 
 @layer base {
   :root {
-    /* Core palette for psychology landing page - calming & trustworthy */
+    /* Core palette for psychology landing page */
     --background: 0 0% 100%;
-    --foreground: 210 20% 15%;
+    --foreground: 58 15% 32%;
 
-    /* Calming teal-blue primary */
-    --primary: 180 25% 65%;
+    /* Turquoise primary */
+    --primary: 178 78% 50%;
     --primary-foreground: 0 0% 100%;
-    --primary-dark: 180 30% 50%;
+    --primary-dark: 178 78% 40%;
 
-    /* Soft coral accent for warmth */
-    --peach: 12 85% 75%;
-    --peach-foreground: 210 20% 15%;
+    /* Light brown accent */
+    --peach: 25 23% 43%;
+    --peach-foreground: 0 0% 100%;
 
-    /* Warm sage green for growth/harmony */
-    --highlight: 150 20% 60%;
+    /* Dark sage highlight */
+    --highlight: 58 15% 32%;
     --highlight-foreground: 0 0% 100%;
 
     /* WhatsApp green for CTAs */
@@ -28,23 +28,23 @@
     --whatsapp-foreground: 0 0% 100%;
     --whatsapp-hover: 142 70% 40%;
 
-    /* Warm neutral tones */
-    --gray-light: 35 15% 97%;
-    --gray-medium: 35 10% 90%;
-    --gray-text: 210 15% 40%;
+    /* Neutral tones */
+    --gray-light: 35 10% 96%;
+    --gray-medium: 35 8% 88%;
+    --gray-text: 58 10% 45%;
 
     /* Card and surface colors */
     --card: 0 0% 100%;
-    --card-foreground: 210 20% 15%;
+    --card-foreground: 58 15% 32%;
 
     /* Input and border */
-    --input: 35 10% 92%;
-    --border: 35 10% 88%;
-    --ring: 180 25% 65%;
+    --input: 35 8% 90%;
+    --border: 35 8% 85%;
+    --ring: 178 78% 50%;
 
     /* Gradients */
-    --gradient-hero: linear-gradient(135deg, hsl(180 25% 65%) 0%, hsl(12 85% 75%) 100%);
-    --gradient-section: linear-gradient(180deg, hsl(0 0% 100%) 0%, hsl(35 15% 97%) 100%);
+    --gradient-hero: linear-gradient(135deg, hsl(178 78% 50%) 0%, hsl(25 23% 43%) 100%);
+    --gradient-section: linear-gradient(180deg, hsl(0 0% 100%) 0%, hsl(35 10% 96%) 100%);
 
     /* Shadows */
     --shadow-soft: 0 4px 20px -2px hsl(210 60% 75% / 0.15);
@@ -117,8 +117,7 @@
   }
 
   body {
-    @apply bg-background text-foreground font-sans;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    @apply bg-background text-foreground font-century;
   }
 
   h1, h2, h3, h4, h5, h6 {

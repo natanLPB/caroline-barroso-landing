@@ -18,6 +18,10 @@ export default {
 			}
 		},
 		extend: {
+			fontFamily: {
+				'boverly': ['Boverly', 'Century Gothic', 'Arial', 'sans-serif'],
+				'century': ['Century Gothic', 'Arial', 'sans-serif'],
+			},
 			colors: {
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
