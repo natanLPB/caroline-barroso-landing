@@ -28,20 +28,23 @@ const SolutionSection = () => {
           <div className="fade-in">
             <div className="space-y-6 text-lg leading-relaxed">
               <p>
-                Meu trabalho como psicóloga infantojuvenil não é apenas "consertar" comportamentos. 
-                É <strong className="text-highlight">ensinar uma nova forma de comunicação</strong> 
-                que transforma toda a dinâmica familiar.
+                As famílias que estão superando essa fase descobriram algo fundamental: <strong className="text-highlight">não adianta tentar 'corrigir' o comportamento da criança sem antes entender o que ela está tentando comunicar</strong>. E não adianta entender, se os pais não têm as ferramentas práticas para responder de forma eficaz.
               </p>
 
               <p>
-                Trabalho com a criança para que ela aprenda a identificar, nomear e expressar 
-                suas emoções de forma saudável. E trabalho com os pais para que compreendam 
-                os sinais emocionais dos filhos e saibam como responder de forma acolhedora e eficaz.
+                <strong className="text-highlight">A única abordagem que realmente funciona é aquela que trabalha simultaneamente com a criança E com a família.</strong>
               </p>
 
               <p>
-                <strong className="text-highlight">O resultado?</strong> Uma família que se entende, 
-                se conecta e cresce junta. Crianças mais seguras, pais mais confiantes e um lar cheio de paz.
+                Isso funciona porque criança não existe isolada – ela é parte de um sistema familiar. Quando os pais aprendem a 'traduzir' os comportamentos e a criança aprende formas mais eficazes de se expressar, toda a dinâmica muda.
+              </p>
+
+              <p>
+                Lembra das crises no supermercado? <strong className="text-highlight">Elas param quando a criança tem outras ferramentas para expressar frustração</strong>. Lembra da sensação de impotência? Ela desaparece quando você sabe exatamente como agir em cada situação.
+              </p>
+
+              <p className="text-xl font-semibold">
+                Quem realmente consegue resultados duradouros faz três coisas simultaneamente:
               </p>
             </div>
           </div>
@@ -57,10 +60,9 @@ const SolutionSection = () => {
               <div className="w-12 h-12 bg-primary text-primary-foreground rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">
                 1
               </div>
-              <h4 className="text-lg font-semibold mb-3">COMPREENSÃO</h4>
+              <h4 className="text-lg font-semibold mb-3">HABILIDADES EMOCIONAIS</h4>
               <p className="text-gray-text">
-                Identificamos juntos os gatilhos emocionais da criança e os padrões familiares 
-                que podem estar contribuindo para os conflitos.
+                Trabalha as habilidades emocionais da criança
               </p>
             </div>
 
@@ -68,10 +70,9 @@ const SolutionSection = () => {
               <div className="w-12 h-12 bg-primary text-primary-foreground rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">
                 2
               </div>
-              <h4 className="text-lg font-semibold mb-3">FERRAMENTAS</h4>
+              <h4 className="text-lg font-semibold mb-3">FERRAMENTAS PRÁTICAS</h4>
               <p className="text-gray-text">
-                Ensino estratégias práticas e eficazes para lidar com crises, estabelecer limites 
-                amorosos e promover a autorregulação emocional.
+                Capacita os pais com ferramentas práticas
               </p>
             </div>
 
@@ -79,10 +80,9 @@ const SolutionSection = () => {
               <div className="w-12 h-12 bg-primary text-primary-foreground rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">
                 3
               </div>
-              <h4 className="text-lg font-semibold mb-3">TRANSFORMAÇÃO</h4>
+              <h4 className="text-lg font-semibold mb-3">CONEXÃO FAMILIAR</h4>
               <p className="text-gray-text">
-                Acompanhamos a evolução e ajustamos as estratégias conforme necessário, 
-                até que a nova dinâmica se torne natural na família.
+                Reconstrói a conexão familiar que foi abalada pelas crises constantes
               </p>
             </div>
           </div>
