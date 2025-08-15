@@ -6,21 +6,21 @@
 
 @layer base {
   :root {
-    /* Core palette for psychology landing page */
+    /* Core palette for psychology landing page - calming & trustworthy */
     --background: 0 0% 100%;
-    --foreground: 220 15% 25%;
+    --foreground: 210 20% 15%;
 
-    /* Soft blue primary */
-    --primary: 210 60% 75%;
+    /* Calming teal-blue primary */
+    --primary: 180 25% 65%;
     --primary-foreground: 0 0% 100%;
-    --primary-dark: 210 60% 60%;
+    --primary-dark: 180 30% 50%;
 
-    /* Peach accent */
-    --peach: 15 70% 85%;
-    --peach-foreground: 220 15% 25%;
+    /* Soft coral accent for warmth */
+    --peach: 12 85% 75%;
+    --peach-foreground: 210 20% 15%;
 
-    /* Warm brown highlights */
-    --highlight: 25 35% 55%;
+    /* Warm sage green for growth/harmony */
+    --highlight: 150 20% 60%;
     --highlight-foreground: 0 0% 100%;
 
     /* WhatsApp green for CTAs */
@@ -28,23 +28,23 @@
     --whatsapp-foreground: 0 0% 100%;
     --whatsapp-hover: 142 70% 40%;
 
-    /* Neutral tones */
-    --gray-light: 220 15% 97%;
-    --gray-medium: 220 10% 85%;
-    --gray-text: 220 15% 45%;
+    /* Warm neutral tones */
+    --gray-light: 35 15% 97%;
+    --gray-medium: 35 10% 90%;
+    --gray-text: 210 15% 40%;
 
     /* Card and surface colors */
     --card: 0 0% 100%;
-    --card-foreground: 220 15% 25%;
+    --card-foreground: 210 20% 15%;
 
     /* Input and border */
-    --input: 220 15% 90%;
-    --border: 220 15% 90%;
-    --ring: 210 60% 75%;
+    --input: 35 10% 92%;
+    --border: 35 10% 88%;
+    --ring: 180 25% 65%;
 
     /* Gradients */
-    --gradient-hero: linear-gradient(135deg, hsl(210 60% 75%) 0%, hsl(15 70% 85%) 100%);
-    --gradient-section: linear-gradient(180deg, hsl(0 0% 100%) 0%, hsl(220 15% 97%) 100%);
+    --gradient-hero: linear-gradient(135deg, hsl(180 25% 65%) 0%, hsl(12 85% 75%) 100%);
+    --gradient-section: linear-gradient(180deg, hsl(0 0% 100%) 0%, hsl(35 15% 97%) 100%);
 
     /* Shadows */
     --shadow-soft: 0 4px 20px -2px hsl(210 60% 75% / 0.15);
